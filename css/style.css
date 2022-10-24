@@ -2,3 +2,23 @@
     max-width: 68.75rem;
 }
 
+.box{
+    width: 5.625rem;
+    height: 5.625rem;
+    margin: .625rem;
+    text-align: center;
+    line-height: 5.625rem;
+    background-color: blue;
+}
+
+.fizz{
+    background-color: green;
+}
+
+.buzz{
+    background-color: yellow;
+}
+
+.fizzbuzz{
+ background-color: red;
+}
